@@ -1,0 +1,80 @@
+img{
+  width:250px;
+  border-radius:120px;
+  height:300px;
+}
+#section1{
+    background:linear-gradient(#40edc5 0% , #07de59 100%)
+}
+body{
+  text-align:center;
+
+;
+}
+p{
+  font-size:20px;
+  color:blue
+}
+h2{
+  color:green;
+  
+}
+h1{
+  color:red;
+  font-size:30px
+}
+.menu{
+   
+    position:fixed;
+    top:0px;
+    
+    font-family:fantasy;
+    cursor:pointer;
+    z-index:10;
+    background:white;
+    width:100%;
+    margin-top:0px;
+}
+.links{
+    
+    padding-top:10px;
+    padding-right:23px;
+    padding-left:25px;
+    padding-bottom:10px;
+    font-family:'Permanent Marker', cursive;
+    color:crimson;
+}
+section{
+    z-index:9
+}
+.links:hover{
+    background-color:lawngreen
+}
+html{
+    scroll-behavior: smooth
+}
+#About{
+    background:linear-gradient( #1633c7 0% , #c90eba 100%)
+}
+#episodes{
+    background:linear-gradient(#faf611 0% , #43f00e 100%)
+}
+#characters{
+    background:linear-gradient(#f21bd6 0% , #f21b1b 100%)
+}
+#pokedex{
+    background-color:aquamarine
+}
+#favourite{
+    background:linear-gradient(#6cbde6 0% , #973deb 100%)
+}
+#contact{
+    background-color:black;
+}
+#contact iframe{
+    width:100%;
+}
+.contact_1 a{
+    display:inline;
+    text-shadow:none;
+}
